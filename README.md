@@ -1,0 +1,4 @@
+StandardStructure
+=================
+
+StandardStructure for projects
